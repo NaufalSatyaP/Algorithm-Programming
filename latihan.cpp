@@ -10,11 +10,11 @@ d. Asal
 */
 
 int main () {
-	cout << "===========\n";
-	cout << "Hello World\n";
-	cout << "===========\n";
-	cout << "Nama 		: Naufal Satya Pradananto\n";
-	cout << "NIM 		: 23.61.0253\n";
-	cout << "Jurusan 	: Bachelor of Informatics\n";
-	cout << "Asal		: Yogyakarta\n";
+	cout << "===========" << endl;
+	cout << "Hello World" << endl;
+	cout << "===========" << endl;
+	cout << "Nama 		: Naufal Satya Pradananto" << endl;
+	cout << "NIM 		: 23.61.0253" << endl;
+	cout << "Jurusan 	: Bachelor of Informatics" << endl;
+	cout << "Asal		: Yogyakarta" << endl;
 }
